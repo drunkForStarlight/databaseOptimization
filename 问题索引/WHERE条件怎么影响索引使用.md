@@ -135,6 +135,6 @@ WHERE created_at >= ?
 
 ## 关联笔记
 
-- [索引设计与使用](../docs/02-indexing.md)
-- [SQL 执行与执行计划](../docs/01-query-execution-and-explain.md)
-- [为什么加了索引还是慢？](why-index-does-not-work.md)
+- [索引设计与使用](../主题笔记/02-索引设计与使用.md)
+- [SQL 执行与执行计划](../主题笔记/01-SQL执行与执行计划.md)
+- [为什么加了索引还是慢？](为什么加了索引还是慢.md)

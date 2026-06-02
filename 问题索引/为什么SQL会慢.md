@@ -27,10 +27,10 @@
 
 ## 关联笔记
 
-- [SQL 执行与执行计划](../docs/01-query-execution-and-explain.md)
-- [SQL 改写与查询调优](../docs/03-sql-tuning.md)
-- [索引设计与使用](../docs/02-indexing.md)
-- [监控、诊断与性能基线](../docs/06-monitoring-diagnosis.md)
+- [SQL 执行与执行计划](../主题笔记/01-SQL执行与执行计划.md)
+- [SQL 改写与查询调优](../主题笔记/03-SQL改写与查询调优.md)
+- [索引设计与使用](../主题笔记/02-索引设计与使用.md)
+- [监控、诊断与性能基线](../主题笔记/06-监控诊断与性能基线.md)
 
 ## 当前结论
 
