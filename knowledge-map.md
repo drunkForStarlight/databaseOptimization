@@ -21,6 +21,7 @@
 ## 索引
 
 - [索引设计与使用](docs/02-indexing.md)
+- [WHERE 条件怎么影响索引使用？](questions/how-where-affects-index-usage.md)
 
 待补充：
 
@@ -56,6 +57,7 @@
 
 - [为什么 SQL 会慢？](questions/why-is-sql-slow.md)
 - [为什么加了索引还是慢？](questions/why-index-does-not-work.md)
+- [WHERE 条件怎么影响索引使用？](questions/how-where-affects-index-usage.md)
 
 ## 案例与实验
 

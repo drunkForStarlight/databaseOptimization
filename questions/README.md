@@ -6,6 +6,7 @@
 
 - [为什么 SQL 会慢？](why-is-sql-slow.md)
 - [为什么加了索引还是慢？](why-index-does-not-work.md)
+- [WHERE 条件怎么影响索引使用？](how-where-affects-index-usage.md)
 
 ## 记录方式
 
